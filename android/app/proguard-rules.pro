@@ -1,1 +1,0 @@
--keep class com.liveasy.liveasy.BuildConfig { *; }
