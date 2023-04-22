@@ -1,4 +1,5 @@
 # liveasy
 
 Liveasy Transport<br />
-<b>Switch to dev branch to see the code</b>
+
+This repository contains code for Liveasy logistics application.<br />
